@@ -6,11 +6,15 @@
 
 <p>FootFashion aims to provide users with a seamless and intuitive interface to explore and shop for the latest footwear trends.</p>
 
-https://github.com/DevPatel1109/FootFashion/assets/96563522/749be85f-aa2f-4c06-be47-bc30324476ff
+![1](https://github.com/DevPatel1109/FootFashion/assets/96563522/014c42b5-f78c-4d24-98b0-553645b725d7)
 
-https://github.com/DevPatel1109/FootFashion/assets/96563522/3efef7d1-cbad-4741-baa4-ae8de2f5f8dd
 
-https://github.com/DevPatel1109/FootFashion/assets/96563522/eedf288f-69c1-40c4-ab6f-8ba92996ef1e
+![2](https://github.com/DevPatel1109/FootFashion/assets/96563522/8bf0f395-378b-481c-9027-ba9f07af7934)
 
-https://github.com/DevPatel1109/FootFashion/assets/96563522/8d9142de-3f11-482c-ae4e-6c8057b31509
+
+![3](https://github.com/DevPatel1109/FootFashion/assets/96563522/4992d59e-86db-4132-9766-3f3b330f6907)
+
+
+![4](https://github.com/DevPatel1109/FootFashion/assets/96563522/236ae9f7-1453-4d96-bac3-a3848cb8dd80)
+
 
