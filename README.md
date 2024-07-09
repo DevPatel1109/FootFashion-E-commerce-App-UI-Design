@@ -6,17 +6,16 @@
 
 <p>FootFashion aims to provide users with a seamless and intuitive interface to explore and shop for the latest footwear trends.</p>
 
-<img src="![1](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/59641ae9-f970-4a60-bd63-f0745993c2a4)" width="250"/>
-
-<img src="![2](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/1c6c0224-6161-40ff-8fd3-a4412078f945)" width="250"/>
-<img src="![3](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ebd2a941-c05f-4a11-a9c9-55f1e7f23ff7)" width="250"/>
-<img src="![4](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ea011670-5d14-4aed-afb6-52e6a5dd0328)" width="250"/>
-<img src="![5](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ac182418-8081-4d75-be2e-9400fb527df4)" width="250"/>
-<img src="![6](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/66a1df7d-2963-45a7-9b9a-5a219f52646e)" width="250"/>
-<img src="![7](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/1f217c03-27a5-4655-9210-a23c0b1d0212)" width="250"/>
-<img src="![8](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/5f2cfbe8-94c9-4a0f-b345-9ba276d98eb8)" width="250"/>
-<img src="![9](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/7bd6452c-158c-4f55-b984-95a930d964fe)" width="250"/>
-<img src="![10](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/c2a48154-d825-4a65-bf46-27192261b261)" width="250"/>
-<img src="![11](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/37964b71-ee1e-473d-a71a-8bb8de37796a)" width="250"/>
-<img src="![12](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/73f0a80a-517e-4b3f-8874-363f225b1ee2)" width="250"/>
-<img src="![13](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/572051be-8b8a-4ba8-949a-b0a4a965ce96)" width="250"/>
+<img src="![1](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/59641ae9-f970-4a60-bd63-f0745993c2a4)" width="250">
+<img src="![2](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/1c6c0224-6161-40ff-8fd3-a4412078f945)" width="250">
+<img src="![3](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ebd2a941-c05f-4a11-a9c9-55f1e7f23ff7)" width="250">
+<img src="![4](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ea011670-5d14-4aed-afb6-52e6a5dd0328)" width="250">
+<img src="![5](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ac182418-8081-4d75-be2e-9400fb527df4)" width="250">
+<img src="![6](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/66a1df7d-2963-45a7-9b9a-5a219f52646e)" width="250">
+<img src="![7](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/1f217c03-27a5-4655-9210-a23c0b1d0212)" width="250">
+<img src="![8](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/5f2cfbe8-94c9-4a0f-b345-9ba276d98eb8)" width="250">
+<img src="![9](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/7bd6452c-158c-4f55-b984-95a930d964fe)" width="250">
+<img src="![10](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/c2a48154-d825-4a65-bf46-27192261b261)" width="250">
+<img src="![11](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/37964b71-ee1e-473d-a71a-8bb8de37796a)" width="250">
+<img src="![12](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/73f0a80a-517e-4b3f-8874-363f225b1ee2)" width="250">
+<img src="![13](https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/572051be-8b8a-4ba8-949a-b0a4a965ce96)" width="250">
