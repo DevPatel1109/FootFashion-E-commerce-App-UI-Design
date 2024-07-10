@@ -10,7 +10,7 @@
 <img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/1c6c0224-6161-40ff-8fd3-a4412078f945" width="250">
 <img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ebd2a941-c05f-4a11-a9c9-55f1e7f23ff7" width="250">
 <img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ea011670-5d14-4aed-afb6-52e6a5dd0328" width="250">
-<img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ac182418-8081-4d75-be2e-9400fb527df4" width="250">
+<img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/4d9b4890-0e88-4cce-82c0-2fe794389f77" width="250">
 <img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/66a1df7d-2963-45a7-9b9a-5a219f52646e" width="250">
 <img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/1f217c03-27a5-4655-9210-a23c0b1d0212" width="250">
 <img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/5f2cfbe8-94c9-4a0f-b345-9ba276d98eb8" width="250">
