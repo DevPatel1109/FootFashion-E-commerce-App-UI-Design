@@ -8,6 +8,8 @@
 
 🔗 https://www.figma.com/design/33eD864xPEEEjaQh5utPim/FootFashion---E-commerce-App-Design?node-id=0-1&t=KieZOgLg3WW1iHqS-1
 
+🔗 https://www.figma.com/proto/33eD864xPEEEjaQh5utPim/FootFashion---E-commerce-App-Design?node-id=83-207&t=WF5mEzZCsNL3OwvQ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=83%3A207
+
 <img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/59641ae9-f970-4a60-bd63-f0745993c2a4" width="250">
 <img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/1c6c0224-6161-40ff-8fd3-a4412078f945" width="250">
 <img src="https://github.com/DevPatel1109/FootFashion-E-commerce-App-Design/assets/96563522/ebd2a941-c05f-4a11-a9c9-55f1e7f23ff7" width="250">
